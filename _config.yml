@@ -104,7 +104,7 @@ author:
   name             : "코알라"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "서울과학기술대학교 ITM전공 소속<br>코딩스터디&교육봉사 동아리입니다."
-  location         : "서울과학기술대학교 프론티어관 614호"
+  location         : "프론티어관 614호"
   email            : "seoultech.coala@gmail.com"
   links:
     - label: "Email"
